@@ -47,7 +47,7 @@ const ReviewsList = ({ reviewDialogOpen, setReviewDialogOpen }) => {
         <DialogTitle>Add a Review</DialogTitle>
         <DialogContent>
           <TextField
-            autoFocus
+            
             margin="dense"
             label="Name"
             type="text"
